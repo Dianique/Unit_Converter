@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="welcome_sign">Welcome!</string>
+    <string name="user_Instructions">Choose a unit measurement to convert!</string>
+    <string name="text_instruct">Enter a number value to convert the measurement:</string>
+    <string name="convert">CONVERT</string>
+    <string name="reset">RESET</string>
+    <string name="tempFar">Temperature Fahrenheit</string>
+    <string name="tempCel">Temperature Celsius</string>
+    <string name="chalkboard">chalkboard</string>
+</resources>
